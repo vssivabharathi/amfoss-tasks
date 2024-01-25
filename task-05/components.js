@@ -14,8 +14,9 @@ class Header extends HTMLElement {
               </nav>
           </div>
       </div>    
-        `;
-       
+
+       `;
+
     }
   }
   class Footer extends HTMLElement {
