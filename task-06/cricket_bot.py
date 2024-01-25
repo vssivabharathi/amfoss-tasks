@@ -83,7 +83,7 @@ async def on_message(message):
         if "/behind_the_screen" in message.content.lower():
             
             await message.channel.send(readme_path)
-readme_path = '''click this link Note: ONLY FOR DEVELOPERS ' ######Hello are you checking the changes ;) ######' '''
+readme_path = '''click this link Note: ONLY FOR DEVELOPERS ' https://github.com/vssivabharathi/amfoss-tasks/blob/main/task-06/README.md'''
 def fetch_match_history():
     try:
         with open('match_history.csv', 'r') as file:
