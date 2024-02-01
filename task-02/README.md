@@ -3,4 +3,4 @@
  
  
 ## Approach to my problem:
-I wrote my approach to the task-02 in My Hugo website. You can see that in **homepage -> project -> portfolio:** I wrote my approach to this task-02 there:) 
+I wrote my approach to the task-02 in My Hugo website. You can see that in **homepage -> project -> portfolio:** I wrote my approach to this task-02 there 
