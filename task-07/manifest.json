@@ -1,0 +1,36 @@
+{
+    "manifest_version": 3,
+    "name": "VSSivabharathi weather extension",
+    "version": "1.0",
+    "description": "Weather extension using HTML, CSS , javascript",
+    "permissions": [
+        "activeTab",
+        "storage"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/clear.png",
+            "48": "images/clouds.png",
+            "128": "images/drizzle.png",
+            "32":"images/mist.png"
+        }
+    },
+    "icons": {
+        "16": "images/clear.png",
+        "48": "images/clouds.png",
+        "128": "images/drizzle.png",
+        "32":"images/mist.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["javascript.js"]
+        }
+    ]
+}
+
+
+
+
+

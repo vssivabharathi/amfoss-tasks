@@ -1,0 +1,2 @@
+## Weather Chrome Extension
+As mentioned in the task-07, I used HTML , CSS and Javascript to complete the task. By using the openweathermap.org's API its feels easy to deploy the code. I refered few youtube channels for this task. For me manifest.json is a new term , still its easy to do while comparing to task-06 (Discord Bot).
