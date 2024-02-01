@@ -1,2 +1,2 @@
 # Ubuntu Installation 
-I dual booted my system with Ubuntu, I didn't face any problem during installation ,because I am aware in disk partition.
+I dual booted my system with Ubuntu, I didn't face any problem during installation ,because I am aware in disk partition.My Ubuntu version is 23.04
