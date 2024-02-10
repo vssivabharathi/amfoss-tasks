@@ -15,8 +15,37 @@ Over the next six months, my primary goals are:
 I will achieve this by working on different project, Solving more Competitive problems, Taking a leadership in the club, being more active in the club will increase good communication skills.
 
 ## HOW WILL YOU CONTRIBUTE BACK TO THE CLUB?
+I am committed to contributing back to the club by:
+- Actively participating in club activities and events.
+- Organizing workshops, study groups, or other initiatives.
+- Offering mentorship and support to fellow members.
+- Sharing my knowledge and expertise through presentations or tutorials.
+- Collaborating on projects and fostering a culture of learning and collaboration.
+
 
 ## WHAT ARE YOUR THOUGHTS AND FEEDBACK ON THE PRAVESHAN SELECTION PROCESS?
+Participating in the Praveshan selection process proved to be an exhilarating journey filled with both enjoyment and challenges. Stepping out of my comfort zone, I encountered hurdles that tested my abilities and pushed me to new limits. Amidst these trials, the presence of my mentor, Kshitij Thareja, was like a beacon of light, guiding me through the maze of uncertainties. His unwavering support and insightful guidance proved invaluable, offering me the strength and direction needed to navigate the complexities of the tasks.
+
+The Praveshan selection process has been a profound learning experience for me, teaching me the importance of starting early in life. As I navigated through the tasks and challenges, I realized that procrastination only hampers progress and adds unnecessary pressure. By witnessing the benefits of early preparation and dedication, I've come to understand that laying a strong foundation early on sets the stage for future success.
+
 
 # Tasks Status
-
+Task Progression are:
+| Task List | Description | Status |
+| :-:       | :-:         | :-:    |
+| [Task-00](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-00)   | Install Linux | Completed |
+| [Task-01](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-01)   | Terminal Wizard | Completed |
+| [Task-02](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-02)   | Lessgo Hugo | Completed |
+| [Task-03](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-03)   | Hello, World! | Completed |
+| [Task-04](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-04)   | Competitive Programming  |Completed |
+| [Task-05](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-05)   | Hypertext Mockup Language | Completed |
+| [Task-06](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-06)   | Cricket Vault | Completed |
+| [Task-07](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-07)   | AK-47℃ | Completed |
+| [Task-08](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-08)   | Poke-Search! | Completed |
+| Task-09   | GeoQuest | Not attempted|
+| [Task-10](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-10)   |  RuskOS |Completed |
+| [Task-11](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-11)   |TinkerCAD|Completed |
+| Task-12   | Godot | Not attempted |
+| [Task-13](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-13)   | Vim | Completed |
+| [Task-14](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-14)   | Bandit | Completed |
+| [Task-15](https://github.com/vssivabharathi/amfoss-tasks/tree/main/task-15)   | Project Euler | Started|
